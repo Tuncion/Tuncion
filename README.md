@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Tuncion
 - 🤏 19 Years old
 - ❤️ Love to learn new stuff
-- 📫 How to reach me: [! Tuncion#0809](https://discord.gg/323HfHyGW4) on Discord
+- 📫 How to reach me: [@tuncion](https://discord.gg/323HfHyGW4) on Discord
 
 ### My Skills
 
