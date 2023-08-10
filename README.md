@@ -7,7 +7,7 @@
 
 ### My Skills
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,docker,discord,nodejs,python,mysql,figma,ps,pr,ae)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,docker,discord,lua,nodejs,python,mysql,figma,ps,pr,ae)
 
 ### My Stats
 
