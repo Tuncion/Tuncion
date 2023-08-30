@@ -12,7 +12,7 @@
 ### My Stats
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=tuncion&theme=github-dark-blue&  hide_border=true" height="200">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=tuncion&theme=github-dark-blue&  hide_border=true" height="250" alt="Streak Stats">
 </div>
 
 ![GitHub Diagram](https://github-readme-activity-graph.vercel.app/graph?username=tuncion&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)
