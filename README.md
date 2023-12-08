@@ -16,6 +16,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tuncion&theme=github-dark-blue&hide_border=true)
 
+#### Activity Last 7 Days
 <img alt="Top Langs" width="750" src="https://wakatime.com/share/@018c0bd0-42e0-4aee-9778-fabce28c0110/4eabf4c2-36c7-4a23-969f-f686a29e8720.svg">
 
 ![GitHub Diagram](https://github-readme-activity-graph.vercel.app/graph?username=tuncion&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)
