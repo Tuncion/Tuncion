@@ -1,16 +1,23 @@
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1500&random=false&width=435&height=30&lines=Hi!++I'm+Tuncion+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Junior+Software+Developer+%F0%9F%9A%80;Feel+free+to+contact+me+%F0%9F%A4%9D)
 
 - 👋 Hi, I’m @Tuncion
 - 🤏 20 Years old
+- 🔭 Working on [Microsoft Business Central](https://www.microsoft.com/dynamics-365/products/business-central)
 - 🗨️ Languages: 
     - <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="12"> English
     - <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="12"> German
 - ❤️ Love to learn new stuff
-- 📫 How to reach me: [@tuncion](https://discord.gg/323HfHyGW4) on Discord
+- 📫 How to reach me: 
+	- Discord: [@tuncion](https://discord.gg/323HfHyGW4) 
+	- Fiverr: [@tuncion](https://fiverr.com/tuncion)
+	- E-Mail: <a href="mailto:business@tuncion.de">business@tuncion.de</a>
 
 ### My Skills
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,docker,discord,lua,nodejs,python,mysql,figma,ps,pr,ae)
+![Languages](https://skillicons.dev/icons?i=git,html,css,js,ts,docker,discordjs,lua,nodejs,python,mysql,figma,next,react,tailwind)
+![Others](https://skillicons.dev/icons?i=discord,vscode,azure,obsidian,md,bash,github)
+![OS](https://skillicons.dev/icons?i=windows,apple,linux)
 
 ### My Stats
 
