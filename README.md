@@ -16,7 +16,7 @@
 ### My Skills
 
 ![Languages](https://skillicons.dev/icons?i=git,html,css,js,ts,docker,discordjs,lua,nodejs,python,mysql,figma,next,react,tailwind)
-![Others](https://skillicons.dev/icons?i=discord,vscode,azure,obsidian,md,bash,github)
+![Others](https://skillicons.dev/icons?i=discord,vscode,azure,obsidian,md,bash,github) \
 ![OS](https://skillicons.dev/icons?i=windows,apple,linux)
 
 ### My Stats
