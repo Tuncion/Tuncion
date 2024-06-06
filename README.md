@@ -13,7 +13,7 @@
 	- Fiverr: [@tuncion](https://fiverr.com/tuncion)
 	- E-Mail: <a href="mailto:business@tuncion.de">business@tuncion.de</a>
 
-### My Skills
+### Working with
 
 ![Languages](https://skillicons.dev/icons?i=git,html,css,js,ts,docker,discordjs,lua,nodejs,python,mysql,figma,next,react,tailwind)
 ![Others](https://skillicons.dev/icons?i=discord,vscode,azure,obsidian,md,bash,github) \
