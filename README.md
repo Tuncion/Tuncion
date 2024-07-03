@@ -4,8 +4,8 @@
 - 👋 Hi, I’m @Tuncion
 - 🤏 20 Years old
 - 🔭 Working with:
-	- <img src="https://i.ibb.co/0rT9NF2/business-central-logo.png" width="12"> [Microsoft Business Central](https://www.microsoft.com/dynamics-365/products/business-central)
- 	- <img src="https://i.ibb.co/bWsWGMh/fivem-logo.png" width="12"> [FiveM](https://fivem.net) 
+	- <img src="https://i.ibb.co/0rT9NF2/business-central-logo.png" width="13"> [Microsoft Business Central](https://www.microsoft.com/dynamics-365/products/business-central)
+ 	- <img src="https://i.ibb.co/bWsWGMh/fivem-logo.png" width="13"> [FiveM](https://fivem.net) 
 	- and much more...
 - 🗨️ Languages: 
     - <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="12"> English
