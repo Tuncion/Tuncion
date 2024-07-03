@@ -3,7 +3,10 @@
 
 - 👋 Hi, I’m @Tuncion
 - 🤏 20 Years old
-- 🔭 Working with [Microsoft Business Central](https://www.microsoft.com/dynamics-365/products/business-central)
+- 🔭 Working with:
+	- [Microsoft Business Central](https://www.microsoft.com/dynamics-365/products/business-central)
+ 	- [FiveM](https://fivem.net) 
+	- and much more...
 - 🗨️ Languages: 
     - <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="12"> English
     - <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="12"> German
