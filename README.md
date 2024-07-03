@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @Tuncion
 - 🤏 20 Years old
-- 🔭 Working with:
+- 🔭 Engaging with:
 	- <img src="https://i.ibb.co/0rT9NF2/business-central-logo.png" width="13"> [Microsoft Business Central](https://www.microsoft.com/dynamics-365/products/business-central)
  	- <img src="https://i.ibb.co/bWsWGMh/fivem-logo.png" width="13"> [FiveM](https://fivem.net) 
 	- and much more...
