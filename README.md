@@ -2,7 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1500&random=false&width=435&height=30&lines=Hi!++I'm+Tuncion+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Junior+Software+Developer+%F0%9F%9A%80;Feel+free+to+contact+me+%F0%9F%A4%9D)
 
 - 👋 Hi, I’m @Tuncion
-- 🤏 20 Years old
+- 🤵 21 Years old
 - 🔭 Engaging with:
 	- <img src="https://i.ibb.co/0rT9NF2/business-central-logo.png" width="13"> [Microsoft Business Central](https://www.microsoft.com/dynamics-365/products/business-central)
  	- <img src="https://i.ibb.co/bWsWGMh/fivem-logo.png" width="13"> [FiveM](https://fivem.net) 
